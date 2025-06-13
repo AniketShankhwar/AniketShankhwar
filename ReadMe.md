@@ -1,3 +1,6 @@
+![Black Gradient Minimalistic Future Technology YouTube Banner](https://github.com/user-attachments/assets/eca6764f-21ba-4fe1-a42b-6d5bc2c5d93a)
+
+
 # 💫 About Me:
 
 I’m a Fullstack Developer with experience building responsive, high-performance web applications using React, Next.js, Redux, and Tailwind CSS. I craft reusable, scalable UI components and thrive in collaborative, fast-paced environments. I’m continually exploring advanced TypeScript patterns, React Query caching strategies, and robust CI/CD workflows to deliver seamless user experiences.
